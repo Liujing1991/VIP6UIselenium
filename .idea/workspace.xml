@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="566e67ff-bc8a-426d-9bb8-21cb0535dc26" name="Default Changelist" comment="" />
+    <list default="true" id="566e67ff-bc8a-426d-9bb8-21cb0535dc26" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/common/BaseDriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/BaseDriver.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/VIP6UIselenium" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jzMbyJ0Fuhldf8sGpYLpHJdxD6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -74,6 +76,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1604807354447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1604807354447" />
     <state width="601" height="153" key="GridCell.Tab.0.bottom" timestamp="1604806730113">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
