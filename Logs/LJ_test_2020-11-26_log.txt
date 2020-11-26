@@ -1,0 +1,74 @@
+2020-11-26 22:17:14,263-INFO-Log.py-MainThread-[line:77]-test111_log-日志信息：111111111111111
+2020-11-26 22:30:45,465-INFO-LoginPage.py-MainThread-[line:27]-test111_log-日志信息：进入登录页面
+2020-11-26 22:30:45,465-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 22:30:45,595-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 22:30:45,720-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'mobileSecurityCode')
+2020-11-26 22:30:45,864-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-11-26 22:30:46,460-INFO-Test_login.py-MainThread-[line:18]-test111_log-日志信息：登录测试完毕
+2020-11-26 22:31:50,346-INFO-LoginPage.py-MainThread-[line:27]-test111_log-日志信息：进入登录页面
+2020-11-26 22:31:50,347-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 22:31:50,486-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 22:31:50,615-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'mobileSecurityCode')
+2020-11-26 22:31:50,787-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-11-26 22:31:51,296-INFO-Test_login.py-MainThread-[line:18]-test111_log-日志信息：登录测试完毕
+2020-11-26 22:32:37,857-INFO-LoginPage.py-MainThread-[line:27]-test111_log-日志信息：进入登录页面
+2020-11-26 22:32:37,857-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 22:32:38,003-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 22:32:38,110-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'mobileSecurityCode')
+2020-11-26 22:32:38,218-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-11-26 22:32:48,679-INFO-Test_login.py-MainThread-[line:19]-test111_log-日志信息：登录测试完毕
+2020-11-26 22:33:09,324-INFO-LoginPage.py-MainThread-[line:27]-test111_log-日志信息：进入登录页面
+2020-11-26 22:33:19,325-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 22:33:19,542-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 22:33:19,629-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'mobileSecurityCode')
+2020-11-26 22:33:19,709-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-11-26 22:35:37,780-INFO-LoginPage.py-MainThread-[line:27]-test111_log-日志信息：进入登录页面
+2020-11-26 22:35:47,780-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 22:35:47,913-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 22:35:47,998-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'mobileSecurityCode')
+2020-11-26 22:35:48,107-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-11-26 23:00:38,155-INFO-CreateContribution.py-MainThread-[line:16]-test111_log-日志信息：打开新建多媒体稿件页
+2020-11-26 23:00:44,157-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'pChannelId')
+2020-11-26 23:00:59,597-INFO-BasePage.py-MainThread-[line:34]-test111_log-日志信息：系统提示异常：Message: 
+
+2020-11-26 23:00:59,597-INFO-BasePage.py-MainThread-[line:35]-test111_log-日志信息：页面中未找到('id', 'pChannelId')元素
+2020-11-26 23:02:49,172-INFO-CreateContribution.py-MainThread-[line:17]-test111_log-日志信息：打开新建多媒体稿件页
+2020-11-26 23:02:49,172-INFO-LoginPage.py-MainThread-[line:27]-test111_log-日志信息：进入登录页面
+2020-11-26 23:02:55,172-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 23:02:55,382-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 23:02:55,471-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'mobileSecurityCode')
+2020-11-26 23:02:55,571-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-11-26 23:02:56,008-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'pChannelId')
+2020-11-26 23:03:11,496-INFO-BasePage.py-MainThread-[line:34]-test111_log-日志信息：系统提示异常：Message: 
+
+2020-11-26 23:03:11,496-INFO-BasePage.py-MainThread-[line:35]-test111_log-日志信息：页面中未找到('id', 'pChannelId')元素
+2020-11-26 23:09:34,542-INFO-LoginPage.py-MainThread-[line:27]-test111_log-日志信息：进入登录页面
+2020-11-26 23:09:44,543-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 23:09:44,665-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 23:09:44,751-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'mobileSecurityCode')
+2020-11-26 23:09:44,854-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-11-26 23:11:02,291-INFO-LoginPage.py-MainThread-[line:27]-test111_log-日志信息：进入登录页面
+2020-11-26 23:11:12,292-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 23:11:12,435-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 23:11:12,537-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'mobileSecurityCode')
+2020-11-26 23:11:12,643-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-11-26 23:11:50,033-INFO-LoginPage.py-MainThread-[line:27]-test111_log-日志信息：进入登录页面
+2020-11-26 23:12:00,034-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 23:12:00,176-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 23:12:00,275-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'mobileSecurityCode')
+2020-11-26 23:12:00,404-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-11-26 23:21:39,681-INFO-CreateContribution.py-MainThread-[line:17]-test111_log-日志信息：打开新建多媒体稿件页
+2020-11-26 23:21:39,681-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'pChannelId')
+2020-11-26 23:21:55,041-INFO-BasePage.py-MainThread-[line:34]-test111_log-日志信息：系统提示异常：Message: 
+
+2020-11-26 23:21:55,041-INFO-BasePage.py-MainThread-[line:35]-test111_log-日志信息：页面中未找到('id', 'pChannelId')元素
+2020-11-26 23:26:52,908-INFO-LoginPage.py-MainThread-[line:27]-test111_log-日志信息：进入登录页面
+2020-11-26 23:26:52,909-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 23:26:53,047-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'password')
+2020-11-26 23:26:53,137-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'mobileSecurityCode')
+2020-11-26 23:26:53,261-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-11-26 23:26:53,374-INFO-CreateContribution.py-MainThread-[line:17]-test111_log-日志信息：打开新建多媒体稿件页
+2020-11-26 23:26:53,374-INFO-BasePage.py-MainThread-[line:26]-test111_log-日志信息：定位的目标元素：('id', 'pChannelId')
+2020-11-26 23:27:08,787-INFO-BasePage.py-MainThread-[line:34]-test111_log-日志信息：系统提示异常：Message: 
+
+2020-11-26 23:27:08,787-INFO-BasePage.py-MainThread-[line:35]-test111_log-日志信息：页面中未找到('id', 'pChannelId')元素

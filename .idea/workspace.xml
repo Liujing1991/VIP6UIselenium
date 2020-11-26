@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="566e67ff-bc8a-426d-9bb8-21cb0535dc26" name="Default Changelist" comment="basedriver、log、readconfig" />
+    <list default="true" id="566e67ff-bc8a-426d-9bb8-21cb0535dc26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Logs/LJ_test_2020-11-26_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PO/BasePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PO/CreateContribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PO/LoginPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase/Test_Create_Contribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase/Test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/BaseDriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/BaseDriver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,15 +39,19 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestCase" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\VIP6UIselenium\TestCase" />
+      <recent name="D:\code\VIP6UIselenium\PO" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\code\VIP6UIselenium\common" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Log">
+  <component name="RunManager" selected="Python tests.Unittests for Test_Create_Contribution.TestCreateContribution.test_create_contribution">
     <configuration name="BaseDriver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VIP6UIselenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Log" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="CreateContribution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VIP6UIselenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/Log.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PO/CreateContribution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReadConfig" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginPage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VIP6UIselenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/ReadConfig.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PO/LoginPage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,33 +115,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testCase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for Test_Create_Contribution.TestCreateContribution.test_create_contribution" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="VIP6UIselenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCase/testCase.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_Create_Contribution.TestCreateContribution.test_create_contribution&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in Test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="VIP6UIselenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/Test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Log" />
+        <item itemvalue="Python tests.Unittests for Test_Create_Contribution.TestCreateContribution.test_create_contribution" />
+        <item itemvalue="Python.LoginPage" />
+        <item itemvalue="Python.CreateContribution" />
+        <item itemvalue="Python tests.Unittests in Test_login.py" />
         <item itemvalue="Python.BaseDriver" />
-        <item itemvalue="Python.ReadConfig" />
-        <item itemvalue="Python.testCase" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606319116718</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="basedriver、log、readconfig">
+      <created>1606320320818</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606320320818</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -166,34 +195,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="basedriver、log、readconfig" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1606320217001">
+    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1606320311166">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1606320217001" />
-    <state width="1259" height="208" key="GridCell.Tab.0.bottom" timestamp="1606320246235">
+    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1606320311166" />
+    <state width="700" height="160" key="GridCell.Tab.0.bottom" timestamp="1606404408204">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="208" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606320246235" />
-    <state width="1259" height="208" key="GridCell.Tab.0.center" timestamp="1606320246235">
+    <state width="700" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606404408204" />
+    <state width="700" height="160" key="GridCell.Tab.0.center" timestamp="1606404408204">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="208" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606320246235" />
-    <state width="1259" height="208" key="GridCell.Tab.0.left" timestamp="1606320246235">
+    <state width="700" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606404408204" />
+    <state width="700" height="160" key="GridCell.Tab.0.left" timestamp="1606404408204">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="208" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606320246235" />
-    <state width="1259" height="208" key="GridCell.Tab.0.right" timestamp="1606320246235">
+    <state width="700" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606404408204" />
+    <state width="700" height="160" key="GridCell.Tab.0.right" timestamp="1606404408204">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="208" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606320246235" />
+    <state width="700" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606404408204" />
     <state x="284" y="0" key="SettingsEditor" timestamp="1606320304494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1606320304494" />
-    <state x="255" y="67" key="Vcs.Push.Dialog.v2" timestamp="1606319124782">
+    <state x="255" y="67" key="Vcs.Push.Dialog.v2" timestamp="1606320322731">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="255" y="67" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1606319124782" />
+    <state x="255" y="67" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1606320322731" />
     <state x="575" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1604816179254">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

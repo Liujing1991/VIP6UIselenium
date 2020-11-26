@@ -46,8 +46,8 @@ if __name__ == '__main__':
     driver = BaseDriver()
     url = ReadConfig().get_driver('url1')
     print(url)
-    driver.get('http://101.129.1.176/CMSMOBILE/')
-    # driver.get(url)
+    # driver.get('http://101.129.1.176/CMSMOBILE/')
+    driver.get(url)
 
 # def BaseDriver():
 #     #1-实例化ChromeOption对象
