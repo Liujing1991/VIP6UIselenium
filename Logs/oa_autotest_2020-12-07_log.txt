@@ -1,0 +1,25 @@
+2020-12-07 21:42:42,133-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-07 21:42:42,133-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-07 21:42:42,133-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-07 21:42:42,134-INFO-main.py-MainThread-[line:102]-automation_log-日志信息:运行的测试列表：[]
+2020-12-07 21:42:42,135-INFO-main.py-Thread0-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\testCase.py 
+2020-12-07 21:42:42,135-INFO-main.py-Thread1-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create.py 
+2020-12-07 21:42:42,135-INFO-main.py-Thread2-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create_art.py 
+2020-12-07 21:42:42,136-INFO-main.py-Thread3-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_login.py 
+2020-12-07 21:42:42,545-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-07 21:42:42,572-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create
+2020-12-07 21:42:42,573-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-07 21:42:42,578-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_login
+2020-12-07 21:42:42,579-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-07 21:42:42,584-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create_art
+2020-12-07 21:42:42,585-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-07 21:42:42,653-INFO-main.py-Thread4-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\__init__.py 
+2020-12-07 21:43:05,156-INFO-main.py-MainThread-[line:117]-automation_log-日志信息:23
+2020-12-07 21:43:05,157-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-07 21:43:05,157-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\__init__.py']
+2020-12-07 21:43:05,157-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html'}
+2020-12-07 21:43:05,158-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html'}
+2020-12-07 21:43:05,158-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html'}
+2020-12-07 21:43:05,158-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': '__init__.py'}
+2020-12-07 21:43:05,158-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html'}, {'file': 'Test_create_Report.html'}, {'file': 'Test_login_Report.html'}, {'file': '__init__.py'}]
+2020-12-07 21:43:05,159-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html'}

@@ -1,9 +1,10 @@
-
-from common.BaseDriver import BaseDriver
+from Common.BaseDriver import BaseDriver
 from selenium.webdriver.common.by import By
-from common.Log import logger
+from Common.Log import logger
 from PO.BasePage import BasePage
 from PO.LoginPage import LoginPage
+from selenium.webdriver.support.ui import Select
+
 import time
 
 class CreateContribution(BasePage):
@@ -20,7 +21,8 @@ class CreateContribution(BasePage):
         self.by_find_element(*self._channel).click()
 
     def change_channel(self):
-        self.click_channel().by_find_element(*self._change_channel).click()
+        cc = Select(self.driver.find_element_by_id("pChannelId"))
+        cc.select_by_value(value='CHAL1494570464952106')
 
     def click_create_menu(self):
         self.by_find_element(*self._create_menu).click()
@@ -36,7 +38,7 @@ class CreateContribution(BasePage):
 
 if __name__ == '__main__':
     driver = BaseDriver()
-    driver.get('http://101.129.1.87/CMSMOBILE/cms/myConsole/myConsole.jsp')
+    driver.get('http://101.129.1.176/CMSMOBILE/cms/myConsole/myConsole.jsp')
     a = CreateContribution(driver)
     b = LoginPage(driver)
     time.sleep(6)

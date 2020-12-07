@@ -12,7 +12,7 @@
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 
-from common.Log import logger
+from Common.Log import logger
 
 
 class BasePage(object):
@@ -27,7 +27,7 @@ class BasePage(object):
             # 确保元素是可见的
             # 注意：以下入参为元组的元素，需要加*，Python存在这种特性，就是将入参放在元组里
 
-            element = WebDriverWait(self.driver,15,0.5).until(EC.visibility_of_element_located(item))
+            element = WebDriverWait(self.driver,15).until(EC.visibility_of_element_located(item))
             return element
 
         except Exception as msg:
@@ -39,10 +39,26 @@ class BasePage(object):
     def focus(self,*item):
         try:
             logger.info('聚焦元素')
-            target = self.driver.by_find_element(*item)
+            target = self.by_find_element(*item)
             self.driver.execute_script("arguments[0].scrollIntoView();", target)
         except Exception as msg:
             logger.info('聚焦元素失败，提示%s' % msg)
+
+    def scrollmid1(self):
+        try:
+            logger.info('滚动页面')
+            js = "window.scrollTo(0,500)"
+            self.driver.execute_script(js)
+        except Exception as msg:
+            logger.info('滚动到页面中部失败：%s' % msg)
+
+    def scrollmid2(self):
+        try:
+            logger.info('滚动页面')
+            js = "window.scrollTo(0,1300)"
+            self.driver.execute_script(js)
+        except Exception as msg:
+            logger.info('滚动到页面中部失败：%s' % msg)
 
     def get(self,url):
         try:

@@ -12,8 +12,8 @@
 import time
 from selenium.webdriver.common.by import By
 from PO.BasePage import BasePage
-from common.BaseDriver import BaseDriver
-from common.Log import logger
+from Common.BaseDriver import BaseDriver
+from Common.Log import logger
 
 class LoginPage(BasePage):
     '''页面属性'''
@@ -40,14 +40,14 @@ class LoginPage(BasePage):
         self.by_find_element(*self._login_botton).click()
 
     def login(self,username='liujing',pwd='liujing123456',mobileSecurityCode='1'):
-        self.input_password(username)
+        self.input_username(username)
         self.input_password(pwd)
         self.input_mobileSecurityCode(mobileSecurityCode)
         self.click_login()
 
 if __name__ == '__main__':
     driver = BaseDriver()
-    driver.get('http://101.129.1.87/CMSMOBILE/')
+    driver.get('http://101.129.1.176/CMSMOBILE')
     a = LoginPage(driver)
-    time.sleep(10)
     a.login()
+    print(driver.title)
