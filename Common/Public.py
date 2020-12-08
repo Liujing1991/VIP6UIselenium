@@ -44,7 +44,7 @@ class Public(object):
         report_dir = self.get_basedir() + "\\" + "TestReport\\"
         report = report_dir + str(name) + "_Report.html"
         file = open(report, 'wb')
-        runner = HTMLTestRunner(stream=file, description='UI自动化测试报告', title=name+'.html')
+        runner = HTMLTestRunner.HTMLTestReportCN(stream=file, description='UI自动化测试报告', title=name+'.html')
         runner.run(suite)
         file.close()
 

@@ -18,7 +18,7 @@
         2.4-插入最后的html末尾
 '''
 
-import re, os
+import re, os,time
 from Common.Public import Public
 from Common.Log import logger
 
@@ -249,12 +249,14 @@ class MergeReport(object):
 
         s_list = self.get_all_report_list()
         # sum用来保存total总数，pas用来保存pass的总数
-        sum, pas, err, fail = 0, 0, 0, 0
+        sum, pas, err, fail = 0,0,0,0
         # 概要=通过的总数/总计的总数
         # 先获取通过的总数，在获取总计的总数
         for i in s_list:
             logger.info('遍历的信息：%s' % str(i))
+            logger.info('total:%s' % i.get('total'))
             sum += int(i.get('total'))
+            logger.info('total:%s' % type(i.get('total')))
             pas += int(i.get('pass'))
             err += int(i.get('error'))
             fail += int(i.get('failure'))
@@ -317,6 +319,15 @@ class MergeReport(object):
 
 
 if __name__ == '__main__':
-    m = MergeReport()
-    m.write_html_summary()
-    m.write_html_record()
+    mr = MergeReport()
+    start_time = time.time()
+    end_time = time.time()
+    elpase_time = end_time - start_time
+    logger.info(int(elpase_time))
+    d, h, m, s = Public().time_format(int(elpase_time))
+
+    start = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(start_time))
+    elpase = ' %s 时 %s 分 %s 秒' % (h, m, s)
+    mr.merge(start, elpase)
+    mr.write_html_summary(start, elpase)
+    mr.write_html_record()

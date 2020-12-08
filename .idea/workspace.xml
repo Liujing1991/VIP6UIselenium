@@ -2,25 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="566e67ff-bc8a-426d-9bb8-21cb0535dc26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PO/CreateArtPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCase/Test_create.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCase/Test_create_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/oa_autotest_2020-12-08_log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/BasePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO/BasePage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/CreateContribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO/CreateContribution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO/LoginPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/Test_Create_Contribution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/Test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/Test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/testCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/testCase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/BaseDriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/BaseDriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/BaseDriver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/Log.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/Log.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/MergeReport.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/MergeReport.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/Public.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/Public.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/Public.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/ReadConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/ReadConfig.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/SendEmail.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/MergeReport.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/MergeReport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/Public.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/Public.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestReport/Test_create_Report.html" beforeDir="false" afterPath="$PROJECT_DIR$/TestReport/Test_create_Report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestReport/Test_create_art_Report.html" beforeDir="false" afterPath="$PROJECT_DIR$/TestReport/Test_create_art_Report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestReport/Test_login_Report.html" beforeDir="false" afterPath="$PROJECT_DIR$/TestReport/Test_login_Report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestReport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestReport/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/TestReport/template.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +95,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="MergeReport" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VIP6UIselenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Common/MergeReport.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VIP6UIselenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,27 +151,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in Test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="VIP6UIselenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/Test_login.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.MergeReport" />
         <item itemvalue="Python tests.Unittests for Test_Create_Contribution.TestCreateContribution.test_create_contribution" />
         <item itemvalue="Python.LoginPage" />
         <item itemvalue="Python.CreateContribution" />
-        <item itemvalue="Python tests.Unittests in Test_login.py" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606404458785</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="seleniumUI自动化">
+      <created>1607348633256</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607348633257</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -210,45 +215,46 @@
     <MESSAGE value="用Python提交GitHub测试" />
     <MESSAGE value="basedriver、log、readconfig" />
     <MESSAGE value="添加登录、点击新建稿件功能" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加登录、点击新建稿件功能" />
+    <MESSAGE value="seleniumUI自动化" />
+    <option name="LAST_COMMIT_MESSAGE" value="seleniumUI自动化" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1606404457762">
+    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1607348628347">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1606404457762" />
+    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1607348628347" />
     <state x="693" y="101" key="FileChooserDialogImpl" timestamp="1607345514399">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="693" y="101" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1607345514399" />
-    <state width="700" height="160" key="GridCell.Tab.0.bottom" timestamp="1606405276302">
+    <state width="1259" height="205" key="GridCell.Tab.0.bottom" timestamp="1607437376127">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="700" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606405276302" />
-    <state width="700" height="160" key="GridCell.Tab.0.center" timestamp="1606405276302">
+    <state width="1259" height="205" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607437376127" />
+    <state width="1259" height="205" key="GridCell.Tab.0.center" timestamp="1607437376127">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="700" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606405276302" />
-    <state width="700" height="160" key="GridCell.Tab.0.left" timestamp="1606405276302">
+    <state width="1259" height="205" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607437376127" />
+    <state width="1259" height="205" key="GridCell.Tab.0.left" timestamp="1607437376127">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="700" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606405276302" />
-    <state width="700" height="160" key="GridCell.Tab.0.right" timestamp="1606405276302">
+    <state width="1259" height="205" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607437376127" />
+    <state width="1259" height="205" key="GridCell.Tab.0.right" timestamp="1607437376127">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="700" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606405276302" />
+    <state width="1259" height="205" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607437376127" />
     <state x="284" y="0" key="SettingsEditor" timestamp="1606320304494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1606320304494" />
-    <state x="255" y="67" key="Vcs.Push.Dialog.v2" timestamp="1606404461130">
+    <state x="255" y="67" key="Vcs.Push.Dialog.v2" timestamp="1607348635700">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="255" y="67" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1606404461130" />
-    <state x="596" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1607345103165">
+    <state x="255" y="67" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1607348635700" />
+    <state x="596" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1607425732177">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="596" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1607345103165" />
+    <state x="596" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1607425732177" />
     <state x="575" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1604816179254">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

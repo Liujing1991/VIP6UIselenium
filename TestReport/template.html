@@ -52,3 +52,81 @@
     </style>
 </head>
 <body>
+
+    <div class='heading'>
+        <h1 style="font-family: Microsoft YaHei">UI自动化测试报告</h1>
+        <p class='attribute'><strong>测试人员 : </strong> QA</p>
+        <p class='attribute'><strong>开始时间 : </strong> 2020-12-08 22:22:56</p>
+        <p class='attribute'><strong>合计耗时 : </strong>  0 时 1 分 0 秒</p>
+        <p class='attribute'><strong>测试结果 : </strong> 共 3，通过 1，通过率= 33% </p>
+        <p class='description'>UI自动化测试报告</p>
+    </div>
+    
+    <p id='show_detail_line'>
+        <a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 33% }</a>
+        <a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 2 }</a>
+        <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 0 }</a>
+        <a class="btn btn-success" href='javascript:showCase(0)'>通过{ 1 }</a>
+        <a class="btn btn-info" href='javascript:showCase(3)'>所有{ 3 }</a>
+    </p>
+    
+    <table id='result_table' class="table table-condensed table-bordered table-hover">
+        <tr id='header_row' class="text-center active" style="font-weight: bold;font-size: 14px;">
+            <td>用例集/测试用例</td>
+            <td>总计</td>
+            <td>通过</td>
+            <td>失败</td>
+            <td>错误</td>
+            <td>通过率</td>
+            <td>详细</td>
+        </tr>
+
+            <tr class='passClass'>
+                <td>Test_create_art_Report.html</td>
+                <td class="text-center">1</td>
+                <td class="text-center">0</td>
+                <td class="text-center">0</td>
+                <td class="text-center">1</td>
+                <td class="text-center">100.00%</td>
+                <td class="text-center"><a href="./Test_create_art_Report.html" class="detail"
+                        id='c1'>详细</a>
+                </td>
+            </tr>
+        
+            <tr class='passClass'>
+                <td>Test_create_Report.html</td>
+                <td class="text-center">1</td>
+                <td class="text-center">1</td>
+                <td class="text-center">0</td>
+                <td class="text-center">0</td>
+                <td class="text-center">0.00%</td>
+                <td class="text-center"><a href="./Test_create_Report.html" class="detail"
+                        id='c1'>详细</a>
+                </td>
+            </tr>
+        
+            <tr class='passClass'>
+                <td>Test_login_Report.html</td>
+                <td class="text-center">1</td>
+                <td class="text-center">0</td>
+                <td class="text-center">0</td>
+                <td class="text-center">1</td>
+                <td class="text-center">100.00%</td>
+                <td class="text-center"><a href="./Test_login_Report.html" class="detail"
+                        id='c1'>详细</a>
+                </td>
+            </tr>
+        
+            <tr id='total_row' class="text-center info">
+            <td>总计</td>
+            <td>3</td>
+            <td>1</td>
+            <td>0</td>
+            <td>2</td>
+            <td>通过率：33%</td>
+            <td> <a href="" target="_blank"></a></td>
+        </tr>
+
+    </table>
+</body>
+</html>
