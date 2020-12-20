@@ -198,7 +198,7 @@ class MergeReport(object):
 
         """""
 
-        name_list = ['file', 'summary', 'error', 'failure', 'pass', 'total']
+        name_list = ['file', 'summary', 'pass', 'failure', 'error', 'total']
         total_sum = []
         report_list = self.get_report_list()
         logger.info('获取到的list%s' % report_list)
@@ -283,7 +283,7 @@ class MergeReport(object):
         fail = '{ ' + str(fail) + ' }'
         pas = '{ ' + str(pas) + ' }'
         sum = '{ ' + str(sum) + ' }'
-        content2 = p.format(passing_rate, err, fail, pas, sum)
+        content2 = p.format(passing_rate, pas, fail, err, sum)
         logger.info(content2)
 
         # 写入概要信息和表格头部

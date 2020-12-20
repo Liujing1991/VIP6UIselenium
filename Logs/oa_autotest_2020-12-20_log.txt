@@ -1,0 +1,1214 @@
+2020-12-20 18:12:36,818-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:12:36,818-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:12:36,819-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:12:36,819-INFO-main.py-MainThread-[line:102]-automation_log-日志信息:运行的测试列表：[]
+2020-12-20 18:12:36,821-INFO-main.py-Thread0-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\testCase.py 
+2020-12-20 18:12:36,821-INFO-main.py-Thread1-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create.py 
+2020-12-20 18:12:36,823-INFO-main.py-Thread2-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create_art.py 
+2020-12-20 18:12:36,827-INFO-main.py-Thread3-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_login.py 
+2020-12-20 18:12:37,523-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:12:37,553-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create_art
+2020-12-20 18:12:37,554-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:12:37,555-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create
+2020-12-20 18:12:37,555-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:12:37,556-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:12:37,558-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:12:37,587-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_login
+2020-12-20 18:12:37,588-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:12:37,590-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:12:43,743-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:12:43,743-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:12:43,947-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:12:44,171-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:12:44,327-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:12:46,742-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:12:46,742-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:12:46,947-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:12:46,947-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:12:46,947-INFO-CreateArtPage.py-MainThread-[line:29]-automation_log-日志信息:进入新建多媒体页
+2020-12-20 18:12:46,947-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:12:47,139-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:12:47,254-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:12:47,643-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:12:47,885-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:12:47,919-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:12:48,124-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:12:49,070-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:12:49,070-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:12:49,538-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:12:51,918-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:12:54,602-INFO-Test_login.py-MainThread-[line:21]-automation_log-日志信息:登录测试完毕
+2020-12-20 18:12:54,646-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:12:54,787-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/ul/li[1]/a')
+2020-12-20 18:12:55,057-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'articleTitle')
+2020-12-20 18:12:57,604-INFO-BasePage.py-MainThread-[line:49]-automation_log-日志信息:滚动页面
+2020-12-20 18:12:57,613-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'TagX1483686773330104')
+2020-12-20 18:12:57,787-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'ueditor_1')
+2020-12-20 18:12:57,863-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/ html / body')
+2020-12-20 18:12:58,133-INFO-BasePage.py-MainThread-[line:57]-automation_log-日志信息:滚动页面
+2020-12-20 18:12:58,140-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'preview')
+2020-12-20 18:13:00,113-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'fabuBtn')
+2020-12-20 18:13:00,549-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'progressList')
+2020-12-20 18:13:03,307-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'launchSure')
+2020-12-20 18:13:05,645-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[7]/div[2]/a[1]')
+2020-12-20 18:13:13,301-INFO-main.py-MainThread-[line:117]-automation_log-日志信息:36
+2020-12-20 18:13:13,304-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:13:13,304-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:13:13,308-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:13:13,311-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:13:13,314-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:13:13,315-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}]
+2020-12-20 18:13:13,316-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:13:13,316-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:13:13,316-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:13:13,318-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:13:13,319-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:13:13,319-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:13:13,321-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:13:13,322-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:13:13,322-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:13:13,323-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:13:13,325-INFO-MergeReport.py-MainThread-[line:276]-automation_log-日志信息:
+    <div class='heading'>
+        <h1 style="font-family: Microsoft YaHei">UI自动化测试报告</h1>
+        <p class='attribute'><strong>测试人员 : </strong> QA</p>
+        <p class='attribute'><strong>开始时间 : </strong> 2020-12-20 18:12:36</p>
+        <p class='attribute'><strong>合计耗时 : </strong>  0 时 0 分 36 秒</p>
+        <p class='attribute'><strong>测试结果 : </strong> 共 3，通过 1，通过率= 33% </p>
+        <p class='description'>UI自动化测试报告</p>
+    </div>
+    
+2020-12-20 18:13:13,327-INFO-MergeReport.py-MainThread-[line:287]-automation_log-日志信息:
+    <p id='show_detail_line'>
+        <a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 33% }</a>
+        <a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 2 }</a>
+        <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 0 }</a>
+        <a class="btn btn-success" href='javascript:showCase(0)'>通过{ 1 }</a>
+        <a class="btn btn-info" href='javascript:showCase(3)'>所有{ 3 }</a>
+    </p>
+    
+2020-12-20 18:13:13,329-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:13:13,330-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:13:13,335-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:13:13,337-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:13:13,338-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:13:13,338-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}]
+2020-12-20 18:13:13,339-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:13:13,339-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:13:13,340-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:13:13,341-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:13:13,342-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:13:13,343-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}]
+2020-12-20 18:13:13,343-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:13:13,343-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:13:13,343-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:13:13,343-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:13:13,343-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:13:13,343-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:13:13,343-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:13:13,344-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:13:13,344-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:13:13,344-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:13:13,345-INFO-main.py-MainThread-[line:123]-automation_log-日志信息:开始和持续时间：2020-12-20 18:12:36 0 时 0 分 36 秒
+2020-12-20 18:14:24,556-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:14:24,556-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:14:24,556-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:14:24,557-INFO-main.py-MainThread-[line:102]-automation_log-日志信息:运行的测试列表：[]
+2020-12-20 18:14:24,558-INFO-main.py-Thread0-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\testCase.py 
+2020-12-20 18:14:24,559-INFO-main.py-Thread1-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create.py 
+2020-12-20 18:14:24,560-INFO-main.py-Thread2-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create_art.py 
+2020-12-20 18:14:24,561-INFO-main.py-Thread3-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_login.py 
+2020-12-20 18:14:25,058-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:14:25,077-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create
+2020-12-20 18:14:25,077-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:14:25,094-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_login
+2020-12-20 18:14:25,094-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:14:25,097-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:14:25,097-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:14:25,113-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create_art
+2020-12-20 18:14:25,114-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:14:25,119-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:14:35,303-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:14:35,303-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:14:36,141-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:14:36,141-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:14:36,200-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:14:36,200-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:14:36,201-INFO-CreateArtPage.py-MainThread-[line:29]-automation_log-日志信息:进入新建多媒体页
+2020-12-20 18:14:36,201-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:14:36,592-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:14:36,696-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:14:36,833-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:14:37,155-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:14:37,204-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:14:37,259-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:14:37,589-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:14:37,712-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:14:37,896-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:14:46,172-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:14:47,138-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:14:47,138-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:14:48,433-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:14:48,551-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/ul/li[1]/a')
+2020-12-20 18:14:48,746-INFO-Test_create.py-MainThread-[line:23]-automation_log-日志信息:已进入新建多媒体
+2020-12-20 18:14:50,950-INFO-BasePage.py-MainThread-[line:49]-automation_log-日志信息:滚动页面
+2020-12-20 18:15:01,540-INFO-BasePage.py-MainThread-[line:34]-automation_log-日志信息:系统提示异常：Message: 
+
+2020-12-20 18:15:01,540-INFO-BasePage.py-MainThread-[line:35]-automation_log-日志信息:页面中未找到('id', 'pChannelId')元素
+2020-12-20 18:15:08,754-INFO-main.py-MainThread-[line:117]-automation_log-日志信息:44
+2020-12-20 18:15:08,754-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:15:08,755-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:15:08,755-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:15:08,756-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:15:08,756-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}
+2020-12-20 18:15:08,757-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}]
+2020-12-20 18:15:08,757-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:15:08,757-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:15:08,757-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:15:08,757-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:15:08,757-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:15:08,757-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:15:08,757-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}
+2020-12-20 18:15:08,757-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:15:08,758-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:15:08,758-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:15:08,758-INFO-MergeReport.py-MainThread-[line:276]-automation_log-日志信息:
+    <div class='heading'>
+        <h1 style="font-family: Microsoft YaHei">UI自动化测试报告</h1>
+        <p class='attribute'><strong>测试人员 : </strong> QA</p>
+        <p class='attribute'><strong>开始时间 : </strong> 2020-12-20 18:14:24</p>
+        <p class='attribute'><strong>合计耗时 : </strong>  0 时 0 分 44 秒</p>
+        <p class='attribute'><strong>测试结果 : </strong> 共 3，通过 1，通过率= 33% </p>
+        <p class='description'>UI自动化测试报告</p>
+    </div>
+    
+2020-12-20 18:15:08,759-INFO-MergeReport.py-MainThread-[line:287]-automation_log-日志信息:
+    <p id='show_detail_line'>
+        <a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 33% }</a>
+        <a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 1 }</a>
+        <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 1 }</a>
+        <a class="btn btn-success" href='javascript:showCase(0)'>通过{ 1 }</a>
+        <a class="btn btn-info" href='javascript:showCase(3)'>所有{ 3 }</a>
+    </p>
+    
+2020-12-20 18:15:08,759-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:15:08,760-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:15:08,761-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:15:08,761-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:15:08,762-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}
+2020-12-20 18:15:08,762-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}]
+2020-12-20 18:15:08,762-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:15:08,763-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:15:08,763-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:15:08,764-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:15:08,765-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}
+2020-12-20 18:15:08,765-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}]
+2020-12-20 18:15:08,765-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:15:08,765-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:15:08,765-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:15:08,765-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:15:08,766-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:15:08,766-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:15:08,766-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}
+2020-12-20 18:15:08,766-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:15:08,766-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:15:08,766-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:15:08,766-INFO-main.py-MainThread-[line:123]-automation_log-日志信息:开始和持续时间：2020-12-20 18:14:24 0 时 0 分 44 秒
+2020-12-20 18:15:56,977-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:15:56,978-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:15:56,978-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:15:56,978-INFO-main.py-MainThread-[line:102]-automation_log-日志信息:运行的测试列表：[]
+2020-12-20 18:15:56,980-INFO-main.py-Thread0-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\testCase.py 
+2020-12-20 18:15:56,980-INFO-main.py-Thread1-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create.py 
+2020-12-20 18:15:56,981-INFO-main.py-Thread2-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create_art.py 
+2020-12-20 18:15:56,981-INFO-main.py-Thread3-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_login.py 
+2020-12-20 18:15:57,374-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:15:57,389-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create
+2020-12-20 18:15:57,389-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:15:57,390-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_login
+2020-12-20 18:15:57,390-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:15:57,391-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create_art
+2020-12-20 18:15:57,391-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:15:57,391-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:15:57,393-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:15:57,395-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:16:03,366-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:16:03,367-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:16:03,367-INFO-CreateArtPage.py-MainThread-[line:29]-automation_log-日志信息:进入新建多媒体页
+2020-12-20 18:16:03,368-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:16:03,568-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:16:03,788-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:16:03,936-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:16:07,093-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:16:07,094-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:16:07,327-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:16:07,327-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:16:07,623-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:16:07,849-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:16:08,339-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:16:09,072-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:16:09,221-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:16:09,856-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:16:10,248-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:16:10,452-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:16:10,588-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/ul/li[1]/a')
+2020-12-20 18:16:10,828-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'articleTitle')
+2020-12-20 18:16:13,309-INFO-BasePage.py-MainThread-[line:49]-automation_log-日志信息:滚动页面
+2020-12-20 18:16:13,386-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'TagX1483686773330104')
+2020-12-20 18:16:18,097-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:16:18,097-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:16:22,135-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:16:22,464-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/ul/li[1]/a')
+2020-12-20 18:16:23,313-INFO-Test_create.py-MainThread-[line:23]-automation_log-日志信息:已进入新建多媒体
+2020-12-20 18:16:25,697-INFO-BasePage.py-MainThread-[line:49]-automation_log-日志信息:滚动页面
+2020-12-20 18:16:28,454-INFO-BasePage.py-MainThread-[line:34]-automation_log-日志信息:系统提示异常：Message: 
+
+2020-12-20 18:16:28,454-INFO-BasePage.py-MainThread-[line:35]-automation_log-日志信息:页面中未找到('id', 'TagX1483686773330104')元素
+2020-12-20 18:16:35,730-INFO-main.py-MainThread-[line:117]-automation_log-日志信息:38
+2020-12-20 18:16:35,731-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:16:35,732-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:16:35,733-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:16:35,734-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:16:35,735-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}
+2020-12-20 18:16:35,735-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}]
+2020-12-20 18:16:35,735-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:16:35,736-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:16:35,736-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:16:35,736-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:16:35,736-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:16:35,737-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:16:35,737-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}
+2020-12-20 18:16:35,737-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:16:35,737-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:16:35,737-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:16:35,738-INFO-MergeReport.py-MainThread-[line:276]-automation_log-日志信息:
+    <div class='heading'>
+        <h1 style="font-family: Microsoft YaHei">UI自动化测试报告</h1>
+        <p class='attribute'><strong>测试人员 : </strong> QA</p>
+        <p class='attribute'><strong>开始时间 : </strong> 2020-12-20 18:15:56</p>
+        <p class='attribute'><strong>合计耗时 : </strong>  0 时 0 分 38 秒</p>
+        <p class='attribute'><strong>测试结果 : </strong> 共 3，通过 1，通过率= 33% </p>
+        <p class='description'>UI自动化测试报告</p>
+    </div>
+    
+2020-12-20 18:16:35,738-INFO-MergeReport.py-MainThread-[line:287]-automation_log-日志信息:
+    <p id='show_detail_line'>
+        <a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 33% }</a>
+        <a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 1 }</a>
+        <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 1 }</a>
+        <a class="btn btn-success" href='javascript:showCase(0)'>通过{ 1 }</a>
+        <a class="btn btn-info" href='javascript:showCase(3)'>所有{ 3 }</a>
+    </p>
+    
+2020-12-20 18:16:35,740-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:16:35,740-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:16:35,741-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:16:35,742-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:16:35,743-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}
+2020-12-20 18:16:35,743-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}]
+2020-12-20 18:16:35,744-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:16:35,744-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:16:35,745-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:16:35,746-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:16:35,747-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}
+2020-12-20 18:16:35,747-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}]
+2020-12-20 18:16:35,748-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:16:35,748-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:16:35,748-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:16:35,748-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:16:35,749-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:16:35,749-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:16:35,749-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '1', 'pass': '0', 'total': '1'}
+2020-12-20 18:16:35,749-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:16:35,749-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:16:35,750-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:16:35,750-INFO-main.py-MainThread-[line:123]-automation_log-日志信息:开始和持续时间：2020-12-20 18:15:56 0 时 0 分 38 秒
+2020-12-20 18:19:00,024-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:19:00,024-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:19:00,024-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:19:00,025-INFO-main.py-MainThread-[line:102]-automation_log-日志信息:运行的测试列表：[]
+2020-12-20 18:19:00,025-INFO-main.py-Thread0-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\testCase.py 
+2020-12-20 18:19:00,026-INFO-main.py-Thread1-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create.py 
+2020-12-20 18:19:00,026-INFO-main.py-Thread2-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create_art.py 
+2020-12-20 18:19:00,027-INFO-main.py-Thread3-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_login.py 
+2020-12-20 18:19:00,469-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:19:00,472-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_login
+2020-12-20 18:19:00,473-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:19:00,479-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:19:00,494-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create_art
+2020-12-20 18:19:00,494-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:19:00,497-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:19:00,501-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:19:05,997-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:19:05,998-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:19:06,606-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:19:06,606-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:19:06,685-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:19:06,793-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:19:07,026-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:19:07,181-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:19:07,788-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:19:08,064-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:19:08,673-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:19:08,673-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:19:08,673-INFO-CreateArtPage.py-MainThread-[line:29]-automation_log-日志信息:进入新建多媒体页
+2020-12-20 18:19:08,673-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:19:09,617-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:19:09,618-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:19:09,671-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:19:09,967-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:19:10,429-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:19:10,658-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:19:13,057-INFO-Test_login.py-MainThread-[line:21]-automation_log-日志信息:登录测试完毕
+2020-12-20 18:19:13,757-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:19:15,216-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:19:15,324-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/ul/li[1]/a')
+2020-12-20 18:19:15,525-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'articleTitle')
+2020-12-20 18:19:17,844-INFO-BasePage.py-MainThread-[line:49]-automation_log-日志信息:滚动页面
+2020-12-20 18:19:17,851-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'TagX1483686773330104')
+2020-12-20 18:19:18,052-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'ueditor_1')
+2020-12-20 18:19:18,131-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/ html / body')
+2020-12-20 18:19:18,382-INFO-BasePage.py-MainThread-[line:57]-automation_log-日志信息:滚动页面
+2020-12-20 18:19:18,389-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'preview')
+2020-12-20 18:19:21,089-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'fabuBtn')
+2020-12-20 18:19:21,532-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'progressList')
+2020-12-20 18:19:24,415-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'launchSure')
+2020-12-20 18:19:26,180-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[7]/div[2]/a[1]')
+2020-12-20 18:19:33,735-INFO-main.py-MainThread-[line:117]-automation_log-日志信息:33
+2020-12-20 18:19:33,736-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:19:33,736-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:19:33,737-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:19:33,738-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:19:33,739-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:19:33,739-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}]
+2020-12-20 18:19:33,739-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:19:33,739-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:19:33,739-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:19:33,739-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:19:33,740-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:19:33,740-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:19:33,740-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:19:33,740-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:19:33,740-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:19:33,740-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:19:33,740-INFO-MergeReport.py-MainThread-[line:276]-automation_log-日志信息:
+    <div class='heading'>
+        <h1 style="font-family: Microsoft YaHei">UI自动化测试报告</h1>
+        <p class='attribute'><strong>测试人员 : </strong> QA</p>
+        <p class='attribute'><strong>开始时间 : </strong> 2020-12-20 18:19:00</p>
+        <p class='attribute'><strong>合计耗时 : </strong>  0 时 0 分 33 秒</p>
+        <p class='attribute'><strong>测试结果 : </strong> 共 3，通过 1，通过率= 33% </p>
+        <p class='description'>UI自动化测试报告</p>
+    </div>
+    
+2020-12-20 18:19:33,741-INFO-MergeReport.py-MainThread-[line:287]-automation_log-日志信息:
+    <p id='show_detail_line'>
+        <a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 33% }</a>
+        <a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 2 }</a>
+        <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 0 }</a>
+        <a class="btn btn-success" href='javascript:showCase(0)'>通过{ 1 }</a>
+        <a class="btn btn-info" href='javascript:showCase(3)'>所有{ 3 }</a>
+    </p>
+    
+2020-12-20 18:19:33,741-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:19:33,742-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:19:33,742-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:19:33,743-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:19:33,743-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:19:33,743-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}]
+2020-12-20 18:19:33,744-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:19:33,744-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:19:33,744-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:19:33,745-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:19:33,745-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:19:33,746-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}]
+2020-12-20 18:19:33,746-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:19:33,746-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:19:33,746-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:19:33,746-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:19:33,746-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:19:33,746-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:19:33,746-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:19:33,747-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:19:33,747-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:19:33,747-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:19:33,747-INFO-main.py-MainThread-[line:123]-automation_log-日志信息:开始和持续时间：2020-12-20 18:19:00 0 时 0 分 33 秒
+2020-12-20 18:24:54,964-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:24:54,964-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:24:54,964-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:24:54,965-INFO-main.py-MainThread-[line:102]-automation_log-日志信息:运行的测试列表：[]
+2020-12-20 18:24:54,965-INFO-main.py-Thread0-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\testCase.py 
+2020-12-20 18:24:54,966-INFO-main.py-Thread1-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create.py 
+2020-12-20 18:24:54,966-INFO-main.py-Thread2-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create_art.py 
+2020-12-20 18:24:54,967-INFO-main.py-Thread3-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_login.py 
+2020-12-20 18:24:55,384-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:24:55,386-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create_art
+2020-12-20 18:24:55,386-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:24:55,390-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:24:55,398-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create
+2020-12-20 18:24:55,398-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:24:55,401-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:24:55,418-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_login
+2020-12-20 18:24:55,418-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:24:55,423-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:25:01,046-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:25:01,046-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:25:01,252-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:25:01,494-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:25:01,659-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:25:04,001-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:25:04,001-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:25:04,117-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:25:04,117-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:25:04,118-INFO-CreateArtPage.py-MainThread-[line:29]-automation_log-日志信息:进入新建多媒体页
+2020-12-20 18:25:04,118-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:25:04,259-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:25:04,327-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:25:04,458-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:25:04,513-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:25:04,566-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:25:04,615-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:25:05,526-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:25:05,526-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:25:07,017-INFO-Test_login.py-MainThread-[line:21]-automation_log-日志信息:登录测试完毕
+2020-12-20 18:25:07,561-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:25:09,092-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:25:09,207-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/ul/li[1]/a')
+2020-12-20 18:25:09,423-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'articleTitle')
+2020-12-20 18:25:12,960-INFO-BasePage.py-MainThread-[line:49]-automation_log-日志信息:滚动页面
+2020-12-20 18:25:12,970-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'TagX1483686773330104')
+2020-12-20 18:25:13,207-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'ueditor_1')
+2020-12-20 18:25:13,310-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/ html / body')
+2020-12-20 18:25:13,530-INFO-BasePage.py-MainThread-[line:57]-automation_log-日志信息:滚动页面
+2020-12-20 18:25:13,536-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'preview')
+2020-12-20 18:25:14,374-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'fabuBtn')
+2020-12-20 18:25:14,841-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'progressList')
+2020-12-20 18:25:17,120-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'launchSure')
+2020-12-20 18:25:18,171-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[7]/div[2]/a[1]')
+2020-12-20 18:25:20,666-INFO-BasePage.py-MainThread-[line:34]-automation_log-日志信息:系统提示异常：Message: 
+
+2020-12-20 18:25:20,666-INFO-BasePage.py-MainThread-[line:35]-automation_log-日志信息:页面中未找到('id', 'pChannelId')元素
+2020-12-20 18:25:28,100-INFO-main.py-MainThread-[line:117]-automation_log-日志信息:33
+2020-12-20 18:25:28,102-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:25:28,102-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:25:28,103-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:25:28,105-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:25:28,106-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:25:28,107-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}]
+2020-12-20 18:25:28,107-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:25:28,107-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:25:28,108-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:25:28,108-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:25:28,108-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:25:28,108-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:25:28,108-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:25:28,109-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:25:28,109-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:25:28,109-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:25:28,109-INFO-MergeReport.py-MainThread-[line:276]-automation_log-日志信息:
+    <div class='heading'>
+        <h1 style="font-family: Microsoft YaHei">UI自动化测试报告</h1>
+        <p class='attribute'><strong>测试人员 : </strong> QA</p>
+        <p class='attribute'><strong>开始时间 : </strong> 2020-12-20 18:24:54</p>
+        <p class='attribute'><strong>合计耗时 : </strong>  0 时 0 分 33 秒</p>
+        <p class='attribute'><strong>测试结果 : </strong> 共 3，通过 1，通过率= 33% </p>
+        <p class='description'>UI自动化测试报告</p>
+    </div>
+    
+2020-12-20 18:25:28,110-INFO-MergeReport.py-MainThread-[line:287]-automation_log-日志信息:
+    <p id='show_detail_line'>
+        <a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 33% }</a>
+        <a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 1 }</a>
+        <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 0 }</a>
+        <a class="btn btn-success" href='javascript:showCase(0)'>通过{ 2 }</a>
+        <a class="btn btn-info" href='javascript:showCase(3)'>所有{ 3 }</a>
+    </p>
+    
+2020-12-20 18:25:28,111-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:25:28,111-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:25:28,112-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:25:28,113-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:25:28,115-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:25:28,116-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}]
+2020-12-20 18:25:28,118-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:25:28,118-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:25:28,119-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:25:28,121-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:25:28,122-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:25:28,122-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}]
+2020-12-20 18:25:28,122-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:25:28,123-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:25:28,123-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:25:28,123-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '0.00%', 'error': '0', 'failure': '0', 'pass': '1', 'total': '1'}
+2020-12-20 18:25:28,123-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:25:28,123-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:25:28,124-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'error': '1', 'failure': '0', 'pass': '0', 'total': '1'}
+2020-12-20 18:25:28,124-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:25:28,124-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:25:28,124-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:25:28,125-INFO-main.py-MainThread-[line:123]-automation_log-日志信息:开始和持续时间：2020-12-20 18:24:54 0 时 0 分 33 秒
+2020-12-20 18:30:44,039-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:30:44,039-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:30:44,039-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:30:44,039-INFO-main.py-MainThread-[line:102]-automation_log-日志信息:运行的测试列表：[]
+2020-12-20 18:30:44,040-INFO-main.py-Thread0-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\testCase.py 
+2020-12-20 18:30:44,040-INFO-main.py-Thread1-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create.py 
+2020-12-20 18:30:44,041-INFO-main.py-Thread2-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create_art.py 
+2020-12-20 18:30:44,041-INFO-main.py-Thread3-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_login.py 
+2020-12-20 18:30:44,490-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create
+2020-12-20 18:30:44,490-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:30:44,492-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:30:44,517-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create_art
+2020-12-20 18:30:44,518-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:30:44,520-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:30:44,559-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:30:44,560-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_login
+2020-12-20 18:30:44,560-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:30:44,563-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:30:50,140-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:30:50,140-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:30:50,455-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:30:50,725-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:30:50,894-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:30:52,373-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:30:52,374-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:30:52,374-INFO-CreateArtPage.py-MainThread-[line:29]-automation_log-日志信息:进入新建多媒体页
+2020-12-20 18:30:52,374-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:30:52,647-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:30:52,648-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:30:52,804-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:30:52,908-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:30:53,109-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:30:53,213-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:30:53,260-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:30:53,503-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:30:54,294-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:30:54,295-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:30:54,720-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:30:56,072-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:30:58,138-INFO-Test_login.py-MainThread-[line:21]-automation_log-日志信息:登录测试完毕
+2020-12-20 18:31:11,545-INFO-BasePage.py-MainThread-[line:34]-automation_log-日志信息:系统提示异常：Message: 
+
+2020-12-20 18:31:11,545-INFO-BasePage.py-MainThread-[line:35]-automation_log-日志信息:页面中未找到('id', 'pChannelId')元素
+2020-12-20 18:31:18,913-INFO-main.py-MainThread-[line:117]-automation_log-日志信息:34
+2020-12-20 18:31:18,913-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:31:18,913-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:31:18,914-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:31:18,914-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:31:18,915-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:31:18,915-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:31:18,915-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:31:18,915-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:31:18,915-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:31:18,915-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:31:18,916-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:31:18,916-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:31:18,916-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:31:18,916-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:31:18,916-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:31:18,916-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:31:18,916-INFO-MergeReport.py-MainThread-[line:276]-automation_log-日志信息:
+    <div class='heading'>
+        <h1 style="font-family: Microsoft YaHei">UI自动化测试报告</h1>
+        <p class='attribute'><strong>测试人员 : </strong> QA</p>
+        <p class='attribute'><strong>开始时间 : </strong> 2020-12-20 18:30:44</p>
+        <p class='attribute'><strong>合计耗时 : </strong>  0 时 0 分 34 秒</p>
+        <p class='attribute'><strong>测试结果 : </strong> 共 3，通过 1，通过率= 33% </p>
+        <p class='description'>UI自动化测试报告</p>
+    </div>
+    
+2020-12-20 18:31:18,916-INFO-MergeReport.py-MainThread-[line:287]-automation_log-日志信息:
+    <p id='show_detail_line'>
+        <a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 33% }</a>
+        <a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 1 }</a>
+        <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 0 }</a>
+        <a class="btn btn-success" href='javascript:showCase(0)'>通过{ 2 }</a>
+        <a class="btn btn-info" href='javascript:showCase(3)'>所有{ 3 }</a>
+    </p>
+    
+2020-12-20 18:31:18,917-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:31:18,917-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:31:18,918-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:31:18,918-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:31:18,919-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:31:18,919-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:31:18,919-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:31:18,920-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:31:18,920-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:31:18,920-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:31:18,921-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:31:18,921-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:31:18,921-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:31:18,921-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:31:18,921-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:31:18,921-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:31:18,921-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:31:18,922-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:31:18,922-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:31:18,922-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:31:18,922-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:31:18,922-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:31:18,922-INFO-main.py-MainThread-[line:123]-automation_log-日志信息:开始和持续时间：2020-12-20 18:30:44 0 时 0 分 34 秒
+2020-12-20 18:31:33,850-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:31:33,850-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:31:33,850-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:31:33,851-INFO-main.py-MainThread-[line:102]-automation_log-日志信息:运行的测试列表：[]
+2020-12-20 18:31:33,851-INFO-main.py-Thread0-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\testCase.py 
+2020-12-20 18:31:33,852-INFO-main.py-Thread1-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create.py 
+2020-12-20 18:31:33,853-INFO-main.py-Thread2-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create_art.py 
+2020-12-20 18:31:33,856-INFO-main.py-Thread3-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_login.py 
+2020-12-20 18:31:34,316-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_login
+2020-12-20 18:31:34,316-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:31:34,318-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:31:34,321-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:31:34,339-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create_art
+2020-12-20 18:31:34,340-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:31:34,340-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:31:34,342-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:31:34,342-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:31:39,638-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:31:39,639-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:31:39,639-INFO-CreateArtPage.py-MainThread-[line:29]-automation_log-日志信息:进入新建多媒体页
+2020-12-20 18:31:39,639-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:31:39,861-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:31:40,096-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:31:40,246-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:31:42,634-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:31:42,635-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:31:42,800-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:31:42,801-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:31:42,921-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:31:43,174-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:31:43,346-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:31:43,595-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:31:43,620-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:31:43,657-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:31:43,892-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:31:44,626-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:31:44,769-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/ul/li[1]/a')
+2020-12-20 18:31:45,051-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'articleTitle')
+2020-12-20 18:31:47,395-INFO-Test_login.py-MainThread-[line:21]-automation_log-日志信息:登录测试完毕
+2020-12-20 18:31:49,005-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:31:49,005-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:31:50,297-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:31:50,531-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/ul/li[1]/a')
+2020-12-20 18:31:51,296-INFO-Test_create.py-MainThread-[line:23]-automation_log-日志信息:已进入新建多媒体
+2020-12-20 18:31:53,752-INFO-BasePage.py-MainThread-[line:49]-automation_log-日志信息:滚动页面
+2020-12-20 18:32:00,113-INFO-BasePage.py-MainThread-[line:34]-automation_log-日志信息:系统提示异常：Message: 
+
+2020-12-20 18:32:00,114-INFO-BasePage.py-MainThread-[line:35]-automation_log-日志信息:页面中未找到('id', 'articleTitle')元素
+2020-12-20 18:32:07,369-INFO-main.py-MainThread-[line:117]-automation_log-日志信息:33
+2020-12-20 18:32:07,370-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:32:07,370-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:32:07,371-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:07,372-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:07,372-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:07,373-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:32:07,373-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:07,373-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:32:07,373-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:32:07,373-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:07,373-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:32:07,373-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:32:07,373-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:07,374-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:32:07,374-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:32:07,374-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 2
+2020-12-20 18:32:07,374-INFO-MergeReport.py-MainThread-[line:276]-automation_log-日志信息:
+    <div class='heading'>
+        <h1 style="font-family: Microsoft YaHei">UI自动化测试报告</h1>
+        <p class='attribute'><strong>测试人员 : </strong> QA</p>
+        <p class='attribute'><strong>开始时间 : </strong> 2020-12-20 18:31:33</p>
+        <p class='attribute'><strong>合计耗时 : </strong>  0 时 0 分 33 秒</p>
+        <p class='attribute'><strong>测试结果 : </strong> 共 3，通过 2，通过率= 67% </p>
+        <p class='description'>UI自动化测试报告</p>
+    </div>
+    
+2020-12-20 18:32:07,375-INFO-MergeReport.py-MainThread-[line:287]-automation_log-日志信息:
+    <p id='show_detail_line'>
+        <a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 67% }</a>
+        <a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 2 }</a>
+        <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 0 }</a>
+        <a class="btn btn-success" href='javascript:showCase(0)'>通过{ 1 }</a>
+        <a class="btn btn-info" href='javascript:showCase(3)'>所有{ 3 }</a>
+    </p>
+    
+2020-12-20 18:32:07,375-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:32:07,375-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:32:07,376-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:07,378-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:07,378-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:07,379-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:32:07,379-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:32:07,379-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:32:07,380-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:07,380-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:07,381-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:07,381-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:32:07,381-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:07,381-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:32:07,381-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:32:07,382-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:07,382-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:32:07,382-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:32:07,382-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:07,382-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:32:07,382-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:32:07,382-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 2
+2020-12-20 18:32:07,383-INFO-main.py-MainThread-[line:123]-automation_log-日志信息:开始和持续时间：2020-12-20 18:31:33 0 时 0 分 33 秒
+2020-12-20 18:32:18,960-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:32:18,960-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:32:18,960-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:32:18,961-INFO-main.py-MainThread-[line:102]-automation_log-日志信息:运行的测试列表：[]
+2020-12-20 18:32:18,962-INFO-main.py-Thread0-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\testCase.py 
+2020-12-20 18:32:18,962-INFO-main.py-Thread1-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create.py 
+2020-12-20 18:32:18,962-INFO-main.py-Thread2-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create_art.py 
+2020-12-20 18:32:18,964-INFO-main.py-Thread3-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_login.py 
+2020-12-20 18:32:19,466-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:32:19,518-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create
+2020-12-20 18:32:19,519-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:32:19,522-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:32:19,536-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create_art
+2020-12-20 18:32:19,536-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:32:19,539-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:32:19,599-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_login
+2020-12-20 18:32:19,599-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:32:19,602-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:32:25,861-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:32:25,862-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:32:25,862-INFO-CreateArtPage.py-MainThread-[line:29]-automation_log-日志信息:进入新建多媒体页
+2020-12-20 18:32:25,862-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:32:25,924-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:32:25,924-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:32:26,028-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:32:26,029-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:32:26,386-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:32:26,429-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:32:26,860-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:32:28,023-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:32:28,207-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:32:28,221-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:32:28,394-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:32:28,494-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:32:29,355-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:32:33,678-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:32:33,679-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:32:33,967-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:32:34,411-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:32:35,226-INFO-Test_login.py-MainThread-[line:21]-automation_log-日志信息:登录测试完毕
+2020-12-20 18:32:48,934-INFO-BasePage.py-MainThread-[line:34]-automation_log-日志信息:系统提示异常：Message: 
+
+2020-12-20 18:32:48,934-INFO-BasePage.py-MainThread-[line:35]-automation_log-日志信息:页面中未找到('id', 'pChannelId')元素
+2020-12-20 18:32:56,373-INFO-main.py-MainThread-[line:117]-automation_log-日志信息:37
+2020-12-20 18:32:56,374-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:32:56,375-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:32:56,377-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:56,379-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:56,381-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:56,381-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:32:56,381-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:56,382-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:32:56,382-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:32:56,382-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:56,382-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:32:56,383-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:32:56,383-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:56,383-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:32:56,383-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:32:56,384-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:32:56,384-INFO-MergeReport.py-MainThread-[line:276]-automation_log-日志信息:
+    <div class='heading'>
+        <h1 style="font-family: Microsoft YaHei">UI自动化测试报告</h1>
+        <p class='attribute'><strong>测试人员 : </strong> QA</p>
+        <p class='attribute'><strong>开始时间 : </strong> 2020-12-20 18:32:18</p>
+        <p class='attribute'><strong>合计耗时 : </strong>  0 时 0 分 37 秒</p>
+        <p class='attribute'><strong>测试结果 : </strong> 共 3，通过 1，通过率= 33% </p>
+        <p class='description'>UI自动化测试报告</p>
+    </div>
+    
+2020-12-20 18:32:56,385-INFO-MergeReport.py-MainThread-[line:287]-automation_log-日志信息:
+    <p id='show_detail_line'>
+        <a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 33% }</a>
+        <a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 1 }</a>
+        <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 0 }</a>
+        <a class="btn btn-success" href='javascript:showCase(0)'>通过{ 2 }</a>
+        <a class="btn btn-info" href='javascript:showCase(3)'>所有{ 3 }</a>
+    </p>
+    
+2020-12-20 18:32:56,386-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:32:56,387-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:32:56,387-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:56,388-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:56,389-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:56,389-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:32:56,389-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:32:56,390-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:32:56,390-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:56,391-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:56,391-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:56,392-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:32:56,392-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:56,392-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:32:56,392-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:32:56,392-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:32:56,392-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:32:56,393-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:32:56,393-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:32:56,393-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:32:56,393-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:32:56,393-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:32:56,394-INFO-main.py-MainThread-[line:123]-automation_log-日志信息:开始和持续时间：2020-12-20 18:32:18 0 时 0 分 37 秒
+2020-12-20 18:33:16,804-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:33:16,804-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:33:16,805-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:33:16,805-INFO-main.py-MainThread-[line:102]-automation_log-日志信息:运行的测试列表：[]
+2020-12-20 18:33:16,806-INFO-main.py-Thread0-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\testCase.py 
+2020-12-20 18:33:16,806-INFO-main.py-Thread1-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create.py 
+2020-12-20 18:33:16,806-INFO-main.py-Thread2-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create_art.py 
+2020-12-20 18:33:16,807-INFO-main.py-Thread3-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_login.py 
+2020-12-20 18:33:17,233-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:33:17,249-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create
+2020-12-20 18:33:17,249-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:33:17,251-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:33:17,259-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_login
+2020-12-20 18:33:17,259-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:33:17,267-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create_art
+2020-12-20 18:33:17,267-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:33:17,269-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:33:17,270-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:33:22,832-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:33:22,832-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:33:22,832-INFO-CreateArtPage.py-MainThread-[line:29]-automation_log-日志信息:进入新建多媒体页
+2020-12-20 18:33:22,833-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:33:23,016-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:33:23,243-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:33:23,385-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:33:25,073-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:33:25,073-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:33:25,131-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:33:25,131-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:33:25,254-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:33:25,311-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:33:25,555-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:33:25,630-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:33:25,725-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:33:25,778-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:33:29,367-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:33:32,237-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:33:32,237-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:33:34,711-INFO-Test_login.py-MainThread-[line:21]-automation_log-日志信息:登录测试完毕
+2020-12-20 18:33:44,460-INFO-BasePage.py-MainThread-[line:34]-automation_log-日志信息:系统提示异常：Message: 
+
+2020-12-20 18:33:44,462-INFO-BasePage.py-MainThread-[line:35]-automation_log-日志信息:页面中未找到('id', 'pChannelId')元素
+2020-12-20 18:33:47,280-INFO-BasePage.py-MainThread-[line:34]-automation_log-日志信息:系统提示异常：Message: 
+
+2020-12-20 18:33:47,281-INFO-BasePage.py-MainThread-[line:35]-automation_log-日志信息:页面中未找到('id', 'pChannelId')元素
+2020-12-20 18:33:54,486-INFO-main.py-MainThread-[line:117]-automation_log-日志信息:37
+2020-12-20 18:33:54,486-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:33:54,486-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:33:54,487-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:33:54,488-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:33:54,488-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:33:54,489-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:33:54,489-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:33:54,489-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:33:54,489-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:33:54,489-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:33:54,490-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:33:54,490-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:33:54,490-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:33:54,490-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:33:54,490-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:33:54,491-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:33:54,491-INFO-MergeReport.py-MainThread-[line:276]-automation_log-日志信息:
+    <div class='heading'>
+        <h1 style="font-family: Microsoft YaHei">UI自动化测试报告</h1>
+        <p class='attribute'><strong>测试人员 : </strong> QA</p>
+        <p class='attribute'><strong>开始时间 : </strong> 2020-12-20 18:33:16</p>
+        <p class='attribute'><strong>合计耗时 : </strong>  0 时 0 分 37 秒</p>
+        <p class='attribute'><strong>测试结果 : </strong> 共 3，通过 1，通过率= 33% </p>
+        <p class='description'>UI自动化测试报告</p>
+    </div>
+    
+2020-12-20 18:33:54,491-INFO-MergeReport.py-MainThread-[line:287]-automation_log-日志信息:
+    <p id='show_detail_line'>
+        <a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 33% }</a>
+        <a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 1 }</a>
+        <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 0 }</a>
+        <a class="btn btn-success" href='javascript:showCase(0)'>通过{ 2 }</a>
+        <a class="btn btn-info" href='javascript:showCase(3)'>所有{ 3 }</a>
+    </p>
+    
+2020-12-20 18:33:54,492-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:33:54,492-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:33:54,493-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:33:54,493-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:33:54,494-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:33:54,494-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:33:54,495-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:33:54,496-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:33:54,496-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:33:54,497-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:33:54,498-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:33:54,498-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:33:54,498-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:33:54,498-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:33:54,498-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:33:54,498-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:33:54,498-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:33:54,498-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:33:54,499-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:33:54,499-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:33:54,499-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:33:54,499-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:33:54,499-INFO-main.py-MainThread-[line:123]-automation_log-日志信息:开始和持续时间：2020-12-20 18:33:16 0 时 0 分 37 秒
+2020-12-20 18:35:14,646-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:35:14,646-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:35:14,646-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:35:14,647-INFO-main.py-MainThread-[line:102]-automation_log-日志信息:运行的测试列表：[]
+2020-12-20 18:35:14,648-INFO-main.py-Thread0-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\testCase.py 
+2020-12-20 18:35:14,649-INFO-main.py-Thread1-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create.py 
+2020-12-20 18:35:14,649-INFO-main.py-Thread2-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create_art.py 
+2020-12-20 18:35:14,650-INFO-main.py-Thread3-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_login.py 
+2020-12-20 18:35:15,103-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:35:15,125-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create
+2020-12-20 18:35:15,125-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:35:15,129-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:35:15,142-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_login
+2020-12-20 18:35:15,143-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:35:15,145-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:35:15,164-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create_art
+2020-12-20 18:35:15,164-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:35:15,167-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:35:20,521-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:35:20,521-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:35:20,717-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:35:20,953-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:35:21,103-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:35:23,135-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:35:23,135-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:35:23,135-INFO-CreateArtPage.py-MainThread-[line:29]-automation_log-日志信息:进入新建多媒体页
+2020-12-20 18:35:23,135-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:35:23,411-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:35:23,426-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:35:23,426-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:35:23,645-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:35:23,670-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:35:23,825-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:35:23,918-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:35:24,042-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:35:27,744-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:35:27,744-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:35:29,722-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:35:33,312-INFO-Test_login.py-MainThread-[line:21]-automation_log-日志信息:登录测试完毕
+2020-12-20 18:35:53,117-INFO-BasePage.py-MainThread-[line:34]-automation_log-日志信息:系统提示异常：Message: 
+
+2020-12-20 18:35:53,118-INFO-BasePage.py-MainThread-[line:35]-automation_log-日志信息:页面中未找到('id', 'pChannelId')元素
+2020-12-20 18:35:54,736-INFO-BasePage.py-MainThread-[line:34]-automation_log-日志信息:系统提示异常：Message: 
+
+2020-12-20 18:35:54,737-INFO-BasePage.py-MainThread-[line:35]-automation_log-日志信息:页面中未找到('id', 'pChannelId')元素
+2020-12-20 18:36:01,906-INFO-main.py-MainThread-[line:117]-automation_log-日志信息:47
+2020-12-20 18:36:01,907-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:36:01,907-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:36:01,908-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:36:01,909-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:36:01,909-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:36:01,910-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:36:01,910-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:36:01,910-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:36:01,911-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:36:01,911-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:36:01,911-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:36:01,912-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:36:01,912-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:36:01,912-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:36:01,913-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:36:01,913-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:36:01,913-INFO-MergeReport.py-MainThread-[line:276]-automation_log-日志信息:
+    <div class='heading'>
+        <h1 style="font-family: Microsoft YaHei">UI自动化测试报告</h1>
+        <p class='attribute'><strong>测试人员 : </strong> QA</p>
+        <p class='attribute'><strong>开始时间 : </strong> 2020-12-20 18:35:14</p>
+        <p class='attribute'><strong>合计耗时 : </strong>  0 时 0 分 47 秒</p>
+        <p class='attribute'><strong>测试结果 : </strong> 共 3，通过 1，通过率= 33% </p>
+        <p class='description'>UI自动化测试报告</p>
+    </div>
+    
+2020-12-20 18:36:01,914-INFO-MergeReport.py-MainThread-[line:287]-automation_log-日志信息:
+    <p id='show_detail_line'>
+        <a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 33% }</a>
+        <a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 1 }</a>
+        <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 0 }</a>
+        <a class="btn btn-success" href='javascript:showCase(0)'>通过{ 2 }</a>
+        <a class="btn btn-info" href='javascript:showCase(3)'>所有{ 3 }</a>
+    </p>
+    
+2020-12-20 18:36:01,915-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:36:01,915-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:36:01,917-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:36:01,918-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:36:01,919-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:36:01,920-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:36:01,920-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:36:01,921-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:36:01,921-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:36:01,922-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:36:01,924-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:36:01,924-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}]
+2020-12-20 18:36:01,924-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:36:01,925-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:36:01,925-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:36:01,925-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:36:01,925-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:36:01,926-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:36:01,926-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:36:01,926-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:36:01,927-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:36:01,927-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:36:01,928-INFO-main.py-MainThread-[line:123]-automation_log-日志信息:开始和持续时间：2020-12-20 18:35:14 0 时 0 分 47 秒
+2020-12-20 18:36:27,167-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:36:31,070-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:36:31,070-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:36:31,216-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:36:31,375-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:36:31,489-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:36:36,263-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:36:36,263-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:36:37,309-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:36:37,395-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/ul/li[1]/a')
+2020-12-20 18:36:37,544-INFO-Test_create.py-MainThread-[line:23]-automation_log-日志信息:已进入新建多媒体
+2020-12-20 18:36:39,572-INFO-BasePage.py-MainThread-[line:49]-automation_log-日志信息:滚动页面
+2020-12-20 18:36:47,322-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:36:51,164-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:36:51,165-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:36:51,165-INFO-CreateArtPage.py-MainThread-[line:29]-automation_log-日志信息:进入新建多媒体页
+2020-12-20 18:36:51,165-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:36:51,318-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:36:51,477-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:36:51,584-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:36:55,780-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:36:56,791-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:36:56,889-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/ul/li[1]/a')
+2020-12-20 18:36:57,067-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'articleTitle')
+2020-12-20 18:36:59,221-INFO-BasePage.py-MainThread-[line:49]-automation_log-日志信息:滚动页面
+2020-12-20 18:36:59,226-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'TagX1483686773330104')
+2020-12-20 18:36:59,375-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'ueditor_1')
+2020-12-20 18:36:59,434-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/ html / body')
+2020-12-20 18:36:59,634-INFO-BasePage.py-MainThread-[line:57]-automation_log-日志信息:滚动页面
+2020-12-20 18:36:59,639-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'preview')
+2020-12-20 18:37:00,536-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'fabuBtn')
+2020-12-20 18:37:00,942-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'progressList')
+2020-12-20 18:37:02,711-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'launchSure')
+2020-12-20 18:37:03,592-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[7]/div[2]/a[1]')
+2020-12-20 18:37:09,893-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:37:13,895-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:37:13,896-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:37:14,102-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:37:14,335-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:37:14,464-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:37:18,141-INFO-Test_login.py-MainThread-[line:21]-automation_log-日志信息:登录测试完毕
+2020-12-20 18:37:24,897-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:37:44,816-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:37:44,816-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:37:44,816-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:37:44,817-INFO-main.py-MainThread-[line:102]-automation_log-日志信息:运行的测试列表：[]
+2020-12-20 18:37:44,818-INFO-main.py-Thread0-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\testCase.py 
+2020-12-20 18:37:44,818-INFO-main.py-Thread1-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create.py 
+2020-12-20 18:37:44,819-INFO-main.py-Thread2-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_create_art.py 
+2020-12-20 18:37:44,822-INFO-main.py-Thread3-[line:89]-automation_log-日志信息:python D:\code\VIP6UIselenium\TestCase\Test_login.py 
+2020-12-20 18:37:45,292-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:37:45,309-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create
+2020-12-20 18:37:45,310-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:37:45,312-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:37:45,317-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_create_art
+2020-12-20 18:37:45,317-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:37:45,319-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:37:45,340-INFO-Public.py-MainThread-[line:31]-automation_log-日志信息:Test_login
+2020-12-20 18:37:45,340-INFO-Public.py-MainThread-[line:26]-automation_log-日志信息:获取的目标目录为D:\code\VIP6UIselenium
+2020-12-20 18:37:45,346-INFO-BaseDriver.py-MainThread-[line:25]-automation_log-日志信息:chrome 有界面运行
+2020-12-20 18:37:51,454-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:37:51,455-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:37:51,455-INFO-CreateArtPage.py-MainThread-[line:29]-automation_log-日志信息:进入新建多媒体页
+2020-12-20 18:37:51,455-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:37:51,498-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:37:51,498-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:37:51,623-INFO-LoginPage.py-MainThread-[line:27]-automation_log-日志信息:进入登录页面
+2020-12-20 18:37:51,623-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'userName')
+2020-12-20 18:37:51,751-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:37:51,769-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:37:52,020-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'password')
+2020-12-20 18:37:52,200-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:37:52,316-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:37:52,761-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:37:52,901-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:37:52,991-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'mobileSecurityCode')
+2020-12-20 18:37:53,154-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div/div[2]/div[2]/div/form/button')
+2020-12-20 18:38:00,115-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:38:03,472-INFO-CreateContribution.py-MainThread-[line:18]-automation_log-日志信息:打开新建多媒体稿件页
+2020-12-20 18:38:03,472-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('id', 'pChannelId')
+2020-12-20 18:38:04,760-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/a/span[1]')
+2020-12-20 18:38:04,858-INFO-BasePage.py-MainThread-[line:26]-automation_log-日志信息:定位的目标元素：('xpath', '/html/body/div[3]/div/div[1]/ul/li[2]/ul/li[1]/a')
+2020-12-20 18:38:05,631-INFO-Test_create.py-MainThread-[line:23]-automation_log-日志信息:已进入新建多媒体
+2020-12-20 18:38:07,689-INFO-BasePage.py-MainThread-[line:49]-automation_log-日志信息:滚动页面
+2020-12-20 18:38:25,149-INFO-BasePage.py-MainThread-[line:34]-automation_log-日志信息:系统提示异常：Message: 
+
+2020-12-20 18:38:25,149-INFO-BasePage.py-MainThread-[line:35]-automation_log-日志信息:页面中未找到('id', 'pChannelId')元素
+2020-12-20 18:38:32,350-INFO-main.py-MainThread-[line:117]-automation_log-日志信息:47
+2020-12-20 18:38:32,353-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:38:32,354-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:38:32,356-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:38:32,357-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:38:32,358-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '1', 'error': '0', 'total': '1'}
+2020-12-20 18:38:32,358-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '1', 'error': '0', 'total': '1'}]
+2020-12-20 18:38:32,358-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:38:32,359-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:38:32,359-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:38:32,359-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:38:32,359-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:38:32,359-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:38:32,359-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '1', 'error': '0', 'total': '1'}
+2020-12-20 18:38:32,360-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:38:32,360-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:38:32,360-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:38:32,361-INFO-MergeReport.py-MainThread-[line:276]-automation_log-日志信息:
+    <div class='heading'>
+        <h1 style="font-family: Microsoft YaHei">UI自动化测试报告</h1>
+        <p class='attribute'><strong>测试人员 : </strong> QA</p>
+        <p class='attribute'><strong>开始时间 : </strong> 2020-12-20 18:37:44</p>
+        <p class='attribute'><strong>合计耗时 : </strong>  0 时 0 分 47 秒</p>
+        <p class='attribute'><strong>测试结果 : </strong> 共 3，通过 1，通过率= 33% </p>
+        <p class='description'>UI自动化测试报告</p>
+    </div>
+    
+2020-12-20 18:38:32,368-INFO-MergeReport.py-MainThread-[line:287]-automation_log-日志信息:
+    <p id='show_detail_line'>
+        <a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 33% }</a>
+        <a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 1 }</a>
+        <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 1 }</a>
+        <a class="btn btn-success" href='javascript:showCase(0)'>通过{ 1 }</a>
+        <a class="btn btn-info" href='javascript:showCase(3)'>所有{ 3 }</a>
+    </p>
+    
+2020-12-20 18:38:32,378-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:38:32,378-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:38:32,380-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:38:32,383-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:38:32,384-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '1', 'error': '0', 'total': '1'}
+2020-12-20 18:38:32,384-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '1', 'error': '0', 'total': '1'}]
+2020-12-20 18:38:32,385-INFO-MergeReport.py-MainThread-[line:187]-automation_log-日志信息:
+2020-12-20 18:38:32,385-INFO-MergeReport.py-MainThread-[line:204]-automation_log-日志信息:获取到的list['D:\\code\\VIP6UIselenium\\TestReport\\Test_create_art_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_create_Report.html', 'D:\\code\\VIP6UIselenium\\TestReport\\Test_login_Report.html']
+2020-12-20 18:38:32,386-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:38:32,387-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:38:32,388-INFO-MergeReport.py-MainThread-[line:225]-automation_log-日志信息:组织的概要信息{'file': 'Test_login_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '1', 'error': '0', 'total': '1'}
+2020-12-20 18:38:32,388-INFO-MergeReport.py-MainThread-[line:229]-automation_log-日志信息:最终的统计列表[{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}, {'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}, {'file': 'Test_login_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '1', 'error': '0', 'total': '1'}]
+2020-12-20 18:38:32,388-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_art_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '0', 'error': '1', 'total': '1'}
+2020-12-20 18:38:32,388-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:38:32,389-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:38:32,389-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_create_Report.html', 'summary': '100.00%', 'pass': '1', 'failure': '0', 'error': '0', 'total': '1'}
+2020-12-20 18:38:32,389-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:38:32,389-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:38:32,389-INFO-MergeReport.py-MainThread-[line:256]-automation_log-日志信息:遍历的信息：{'file': 'Test_login_Report.html', 'summary': '0.00%', 'pass': '0', 'failure': '1', 'error': '0', 'total': '1'}
+2020-12-20 18:38:32,391-INFO-MergeReport.py-MainThread-[line:257]-automation_log-日志信息:total:1
+2020-12-20 18:38:32,391-INFO-MergeReport.py-MainThread-[line:259]-automation_log-日志信息:total:<class 'str'>
+2020-12-20 18:38:32,391-INFO-MergeReport.py-MainThread-[line:263]-automation_log-日志信息:sum: 3, pas: 1
+2020-12-20 18:38:32,392-INFO-main.py-MainThread-[line:123]-automation_log-日志信息:开始和持续时间：2020-12-20 18:37:44 0 时 0 分 47 秒

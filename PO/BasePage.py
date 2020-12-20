@@ -27,7 +27,7 @@ class BasePage(object):
             # 确保元素是可见的
             # 注意：以下入参为元组的元素，需要加*，Python存在这种特性，就是将入参放在元组里
 
-            element = WebDriverWait(self.driver,15).until(EC.visibility_of_element_located(item))
+            element = WebDriverWait(self.driver,25).until(EC.visibility_of_element_located(item))
             return element
 
         except Exception as msg:
