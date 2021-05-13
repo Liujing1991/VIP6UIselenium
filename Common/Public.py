@@ -27,6 +27,7 @@ class Public(object):
         return base_dir
 
     def get_file_name(self,file):
+        #把路径分割成 根目录 和 basename，返回一个元组，用索引取文件名，并删除后缀
         filename = os.path.split(os.path.abspath(file))[1].strip('.py')
         logger.info(filename)
         return filename

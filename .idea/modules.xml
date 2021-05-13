@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/VIP6UIselenium.iml" filepath="$PROJECT_DIR$/.idea/VIP6UIselenium.iml" />
+      <module fileurl="file://D:/刘晶/提升班/基础培训/作业汇总/homework/.idea/homework.iml" filepath="D:/刘晶/提升班/基础培训/作业汇总/homework/.idea/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vip6-interface/zsday1/.idea/zsday1.iml" filepath="$PROJECT_DIR$/../vip6-interface/zsday1/.idea/zsday1.iml" />
     </modules>
   </component>
 </project>

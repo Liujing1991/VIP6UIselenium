@@ -2,14 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="566e67ff-bc8a-426d-9bb8-21cb0535dc26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Logs/oa_autotest_2020-12-20_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/oa_autotest_2021-05-01_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/互斥锁.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/多线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/多线程携带参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/守护线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/线程之间共享全部变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/面向对象多线程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VIP6UIselenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VIP6UIselenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Common/MergeReport.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/MergeReport.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/BasePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO/BasePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/BaseDriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/BaseDriver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/Log.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/Log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/Public.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/Public.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/Test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/Test_login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestReport/Test_create_Report.html" beforeDir="false" afterPath="$PROJECT_DIR$/TestReport/Test_create_Report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestReport/Test_create_art_Report.html" beforeDir="false" afterPath="$PROJECT_DIR$/TestReport/Test_create_art_Report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestReport/Test_login_Report.html" beforeDir="false" afterPath="$PROJECT_DIR$/TestReport/Test_login_Report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestReport/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/TestReport/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +50,20 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestCase" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SeleniumUI" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\code\VIP6UIselenium\common" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\VIP6UIselenium\TestCase" />
       <recent name="D:\code\VIP6UIselenium\PO" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\VIP6UIselenium\common" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.互斥锁">
+    <configuration name="多线程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VIP6UIselenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/多线程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,69 +84,118 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for Test_create.TestCreate" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="多线程携带参数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VIP6UIselenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Test_create.TestCreate&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/多线程携带参数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for Test_create_art.TestCreateArt" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="守护线程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VIP6UIselenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Test_create_art.TestCreateArt&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/守护线程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for testCase.Test_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="线程之间共享全部变量" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VIP6UIselenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testCase.Test_login&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/线程之间共享全部变量.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in Test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="互斥锁" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VIP6UIselenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/Test_login.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/互斥锁.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="文件操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VIP6UIselenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/刘晶/提升班/基础培训/第五天/code(1)" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:/刘晶/提升班/基础培训/第五天/code(1)/文件操作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python tests.Unittests for testCase.Test_login" />
-        <item itemvalue="Python tests.Unittests in Test_login.py" />
-        <item itemvalue="Python tests.Unittests for Test_create_art.TestCreateArt" />
-        <item itemvalue="Python tests.Unittests for Test_create.TestCreate" />
+        <item itemvalue="Python.互斥锁" />
+        <item itemvalue="Python.线程之间共享全部变量" />
+        <item itemvalue="Python.守护线程" />
+        <item itemvalue="Python.多线程携带参数" />
+        <item itemvalue="Python.多线程" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607437880578</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="报告跑通">
+      <created>1608461155491</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608461155491</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -204,45 +272,53 @@
     <option name="LAST_COMMIT_MESSAGE" value="报告跑通" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1607437879246">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1620747320865">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1607437879246" />
-    <state x="693" y="101" key="FileChooserDialogImpl" timestamp="1607345514399">
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1620747320865" />
+    <state width="835" height="143" key="GridCell.Tab.0.bottom" timestamp="1620920470817">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="693" y="101" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1607345514399" />
-    <state width="1259" height="228" key="GridCell.Tab.0.bottom" timestamp="1608460664603">
+    <state width="835" height="143" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620920470817" />
+    <state width="835" height="143" key="GridCell.Tab.0.center" timestamp="1620920470817">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="228" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608460664603" />
-    <state width="1259" height="228" key="GridCell.Tab.0.center" timestamp="1608460664603">
+    <state width="835" height="143" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1620920470817" />
+    <state width="835" height="143" key="GridCell.Tab.0.left" timestamp="1620920470817">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="228" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608460664603" />
-    <state width="1259" height="228" key="GridCell.Tab.0.left" timestamp="1608460664603">
+    <state width="835" height="143" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1620920470817" />
+    <state width="835" height="143" key="GridCell.Tab.0.right" timestamp="1620920470817">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="228" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608460664603" />
-    <state width="1259" height="228" key="GridCell.Tab.0.right" timestamp="1608460664603">
+    <state width="835" height="143" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1620920470817" />
+    <state width="1259" height="194" key="GridCell.Tab.1.bottom" timestamp="1617630867077">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="228" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608460664603" />
-    <state x="284" y="0" key="SettingsEditor" timestamp="1606320304494">
+    <state width="1259" height="194" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617630867077" />
+    <state width="1259" height="194" key="GridCell.Tab.1.center" timestamp="1617630867077">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1606320304494" />
-    <state x="255" y="67" key="Vcs.Push.Dialog.v2" timestamp="1607437884107">
+    <state width="1259" height="194" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1617630867077" />
+    <state width="1259" height="194" key="GridCell.Tab.1.left" timestamp="1617630867077">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="255" y="67" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1607437884107" />
-    <state x="596" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1608459134635">
+    <state width="1259" height="194" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1617630867077" />
+    <state width="1259" height="194" key="GridCell.Tab.1.right" timestamp="1617630867077">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="596" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1608459134635" />
-    <state x="575" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1604816179254">
+    <state width="1259" height="194" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1617630867077" />
+    <state x="244" y="0" key="SettingsEditor" timestamp="1620742556143">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="575" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1604816179254" />
+    <state x="244" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1620742556143" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1620916315794">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1620916315794" />
+    <state x="647" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1620920419452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="647" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1620920419452" />
   </component>
 </project>

@@ -35,19 +35,19 @@ table       { font-size: 100%; }
 <div class='heading'>
 <h1 style="font-family: Microsoft YaHei">Test_create.html</h1>
 <p class='attribute'><strong>测试人员 : </strong> QA</p>
-<p class='attribute'><strong>开始时间 : </strong> 2020-12-20 18:37:45</p>
-<p class='attribute'><strong>合计耗时 : </strong> 0:00:22.436988</p>
-<p class='attribute'><strong>测试结果 : </strong> 共 1，通过 1，通过率= 100.00%</p>
+<p class='attribute'><strong>开始时间 : </strong> 2021-05-01 00:49:38</p>
+<p class='attribute'><strong>合计耗时 : </strong> 0:00:36.890022</p>
+<p class='attribute'><strong>测试结果 : </strong> 共 1，错误 1，通过率= 0.00%</p>
 
 <p class='description'>UI自动化测试报告</p>
 </div>
 
 
 <p id='show_detail_line'>
-<a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 100.00% }</a>
-<a class="btn btn-success" href='javascript:showCase(0)'>通过{ 1 }</a>
+<a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 0.00% }</a>
+<a class="btn btn-success" href='javascript:showCase(0)'>通过{ 0 }</a>
 <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 0 }</a>
-<a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 0 }</a>
+<a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 1 }</a>
 <a class="btn btn-info" href='javascript:showCase(3)'>所有{ 1 }</a>
 </p>
 <table id='result_table' class="table table-condensed table-bordered table-hover">
@@ -68,31 +68,36 @@ table       { font-size: 100%; }
     <td>详细</td>
 </tr>
 
-<tr class='success'>
+<tr class='warning'>
     <td>TestCreate</td>
     <td class="text-center">1</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
     <td class="text-center">1</td>
-    <td class="text-center">0</td>
-    <td class="text-center">0</td>
     <td class="text-center"><a href="javascript:showClassDetail('c1',1)" class="detail" id='c1'>详细</a></td>
 </tr>
 
-<tr id='pt1_1' class='hiddenRow'>
-    <td class='passCase'><div class='testcase'>test_create</div></td>
+<tr id='et1_1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_create</div></td>
     <td colspan='5' align='center'>
     <!--默认收起output信息 -Findyou
-    <button id='btn_pt1_1' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt1_1'>通过</button>
-    <div id='div_pt1_1' class="collapse">  -->
+    <button id='btn_et1_1' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et1_1'>错误</button>
+    <div id='div_et1_1' class="collapse">  -->
     <!-- 默认展开output信息 -Findyou -->
-    <button id='btn_pt1_1' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt1_1'>通过</button>
-    <div id='div_pt1_1' class="collapse in">
+    <button id='btn_et1_1' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et1_1'>错误</button>
+    <div id='div_et1_1' class="collapse in">
     <pre>
     
-pt1_1: D:\code\VIP6UIselenium\config.ini
+et1_1: D:\code\VIP6UIselenium\config.ini
 ['D:\\code\\VIP6UIselenium\\config.ini'] ------------
-菜单管理页
-第一个窗口的ID： CDwindow-60DB915BED86CAAD9C97838BA707F4D8
-新建多媒体
+Traceback (most recent call last):
+  File "D:\code\VIP6UIselenium\TestCase\Test_create.py", line 20, in test_create
+    create.create_contribution()
+  File "D:\code\VIP6UIselenium\PO\CreateContribution.py", line 34, in create_contribution
+    self.click_channel()
+  File "D:\code\VIP6UIselenium\PO\CreateContribution.py", line 21, in click_channel
+    self.by_find_element(*self._channel).click()
+AttributeError: 'NoneType' object has no attribute 'click'
 
 
     </pre>
@@ -103,10 +108,10 @@ pt1_1: D:\code\VIP6UIselenium\config.ini
 <tr id='total_row' class="text-center info">
     <td>总计</td>
     <td>1</td>
+    <td>0</td>
+    <td>0</td>
     <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td>通过率：100.00%</td>
+    <td>通过率：0.00%</td>
 </tr>
 </table>
 

@@ -101,13 +101,18 @@ if __name__ == '__main__':
 
     logger.info('运行的测试列表：%s' % str(tlist))
     for i in test_list:
+        # 创建线程
+        # target用来调用线程函数run_test；args读取到每一个测试用例作为参数传给run_test；name是给线程命名
         t = threading.Thread(target=run_test, args=(i,), name='Thread' + str(test_list.index(i)))
+        #守护线程
         t.setDaemon(True)
         tlist.append(t)
 
+    # 启动线程
     for i in tlist:
         i.start()
 
+    #主线程等待子线程
     for i in tlist:
         i.join()
     time.sleep(5)
@@ -115,6 +120,7 @@ if __name__ == '__main__':
     end_time = time.time()
     elpase_time = end_time - start_time
     logger.info(int(elpase_time))
+
     d, h, m, s = Public().time_format(int(elpase_time))
     mr = MergeReport()
     start = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(start_time))

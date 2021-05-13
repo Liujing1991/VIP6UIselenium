@@ -57,7 +57,8 @@ class Logger(object):
     def _get_console_handler(self):
         """设置控制台输出的句柄"""
         ch = logging.StreamHandler()
-        ch.setLevel(logging.INFO)  #指定被处理信息级别未最低级debug,低于level级别的信息将被忽略
+        # 指定被处理信息级别未最低级debug,低于level级别的信息将被忽略
+        ch.setLevel(logging.INFO)
         ch.setFormatter(self.__formatter)
         return ch
 
@@ -65,8 +66,8 @@ class Logger(object):
         """设置文件输出的句柄"""
         timestr = time.strftime('%Y-%m-%d')
         file = self._log_dir + "\\" + "oa_autotest_" + timestr + "_log.txt"
-        #输出到file
-        fh = logging.FileHandler(file,mode = 'a',encoding = 'utf-8') # 不拆分日志文件，a指追加模式,w为覆盖模式
+        #输出到file，不拆分日志文件，a指追加模式,w为覆盖模式
+        fh = logging.FileHandler(file,mode = 'a',encoding = 'utf-8')
         fh.setLevel(logging.DEBUG)
         fh.setFormatter(self.__formatter)
         return fh

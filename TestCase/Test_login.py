@@ -23,6 +23,7 @@ class TestLogin(unittest.TestCase):
 
 
 if __name__ == '__main__':
+    #每个报告在此生成
     suite = unittest.defaultTestLoader.loadTestsFromTestCase(TestLogin)
     file = os.path.abspath(__file__)
     Public().gen_unittest_report(suite, file)
